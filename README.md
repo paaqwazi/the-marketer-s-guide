@@ -1,2 +1,2 @@
-# the-marketer-s-guide
-a simple website with details on how marketers should operate
+# the-marketers'-guide
+A simple website with simple details on how marketers can perform their operations ethically and affectively.
